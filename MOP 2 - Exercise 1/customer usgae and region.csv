@@ -1,0 +1,6 @@
+customer_id,name,plan_type,join_date,region
+1001,"Asha Mehta",Prepaid,2023-05-12,Delhi
+1002,"Ravi Kumar",Postpaid,2022-12-20,Mumbai
+1003,"Sneha Rao",Prepaid,2023-01-18,Chennai
+1004,"Manoj Singh",Postpaid,2021-11-05,Delhi
+1005,"Divya Jain",Prepaid,2023-03-28,Kolkata

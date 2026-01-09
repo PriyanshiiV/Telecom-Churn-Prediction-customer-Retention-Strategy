@@ -1,0 +1,6 @@
+customer_id,usage_gb,call_mins,complaints,churn
+1001,5.2,240,1,No
+1002,12.3,410,0,No
+1003,2.5,80,2,Yes
+1004,8.4,320,1,No
+1005,1.8,60,3,Yes
